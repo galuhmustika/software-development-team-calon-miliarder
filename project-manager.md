@@ -2,7 +2,7 @@
 ## Nama: 
 Galuh Mustika Pratiwi
 ## Peran dan Tanggung jawab:
-Sebagai PM dalam Tim Softdev Calon Miliarder, tugas dan kontribusi saya meliputi:
+Sebagai PM dalam Tim Softdev Kelompok 8, tugas dan kontribusi saya meliputi:
 1. Membuat dan Menginisialisasi repository bersama di Github
 2. Mengatur dan menambahkan seluruh anggota tim collaborator ke dalam repository
 3. Mengelola manajemen proyek, struktur dasar folder, serta file 'README.md'
