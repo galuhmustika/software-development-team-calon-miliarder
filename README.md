@@ -1,5 +1,5 @@
 # Software Development Team Kelompok 8
-Nama Kelompok: Calon Miliarder
+Nama Kelompok: Kelompok 8
 
 Nama anggota: - Nasywa Nur Syahada (0015)
               - Galuh Mustika Pratiwi (0100)
