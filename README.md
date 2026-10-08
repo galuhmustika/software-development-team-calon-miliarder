@@ -1,4 +1,4 @@
-# Software Development Team Calon Miliarder
+# Software Development Team Kelompok 8
 Nama Kelompok: Calon Miliarder
 
 Nama anggota: - Nasywa Nur Syahada (0015)
